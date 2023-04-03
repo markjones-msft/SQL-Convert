@@ -1,6 +1,8 @@
 # SQL-to-TSQL Converter using OpenAI API
 
-This code reads in SQL code from the console, prompts the user to enter the code and then uses the OpenAI API to convert it to TSQL.
+This code reads in any SQL code from the console, prompts the user to enter the code and then uses the OpenAI API to convert it to TSQL.
+Tested with:
+PL-SQL (Oracle)
 
 ## Usage
 
@@ -12,7 +14,7 @@ This code reads in SQL code from the console, prompts the user to enter the code
 6. Open a command prompt in the `SQL-to-TSQL-Converter` folder
 7. Run `dotnet run`
 
-## Code explanation
+## Decription
 
 It starts by creating a `StringBuilder` object to accumulate the SQL code entered by the user. 
 It then enters a loop where it reads in lines of input from the console until the user enters a blank line. 
