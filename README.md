@@ -1,7 +1,9 @@
 # SQL-to-TSQL Converter using OpenAI API
 
 This code reads in any SQL code from the console, prompts the user to enter the code and then uses the OpenAI API to convert it to TSQL.
+
 Tested with:
+
 PL-SQL (Oracle)
 
 ## Usage
