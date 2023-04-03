@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SQL_Convert
-build_property.ProjectDir = C:\GitHub\SQL-Convert\
+build_property.ProjectDir = c:\GitHub\SQL-Convert\
