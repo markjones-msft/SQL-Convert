@@ -40,6 +40,6 @@ If an error occurs during the API call, the program will catch the exception and
 ## Dependencies
 
 - .NET 5
-- `OpenAI_API` (installed via NuGet)
+- `OpenAI_API` (installed via NuGet) see: https://github.com/OkGoDoIt/OpenAI-API-dotnet
 
 
