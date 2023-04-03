@@ -6,16 +6,6 @@ Tested with:
 
 PL-SQL (Oracle)
 
-## Usage
-
-1. Clone the repository
-2. Navigate to the `SQL-to-TSQL-Converter` folder
-3. Open `Program.cs` in a text editor
-4. Replace `ENTER YOUR API KEY HERE` with your OpenAI API key
-5. Save and close `Program.cs`
-6. Open a command prompt in the `SQL-to-TSQL-Converter` folder
-7. Run `dotnet run`
-
 ## Decription
 
 It starts by creating a `StringBuilder` object to accumulate the SQL code entered by the user. 
@@ -32,6 +22,16 @@ The API call returns a `CompletionResult` object that contains a list of `Choice
 The code retrieves the first choice and its `Message` property, which contains the converted TSQL code.
 
 Finally, the converted TSQL code is printed to the console with `Console.WriteLine`.
+
+## Usage
+
+1. Clone the repository
+2. Navigate to the `SQL-to-TSQL-Converter` folder
+3. Open `Program.cs` in a text editor
+4. Replace `ENTER YOUR API KEY HERE` with your OpenAI API key
+5. Save and close `Program.cs`
+6. Open a command prompt in the `SQL-to-TSQL-Converter` folder
+7. Run `dotnet run`
 
 ## Error handling
 
