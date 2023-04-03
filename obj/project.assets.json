@@ -118,7 +118,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Newtonsoft.Json >= 13.0.3",
       "OpenAI >= 1.6.0"
     ]
   },
@@ -128,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\GitHub\\SQL-Convert\\SQL-Convert.csproj",
+      "projectUniqueName": "C:\\GitHub\\SQL-Convert\\SQL-Convert.csproj",
       "projectName": "SQL-Convert",
-      "projectPath": "c:\\GitHub\\SQL-Convert\\SQL-Convert.csproj",
+      "projectPath": "C:\\GitHub\\SQL-Convert\\SQL-Convert.csproj",
       "packagesPath": "C:\\Users\\markjon\\.nuget\\packages\\",
-      "outputPath": "c:\\GitHub\\SQL-Convert\\obj\\",
+      "outputPath": "C:\\GitHub\\SQL-Convert\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\markjon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -159,10 +158,6 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
-          "Newtonsoft.Json": {
-            "target": "Package",
-            "version": "[13.0.3, )"
-          },
           "OpenAI": {
             "target": "Package",
             "version": "[1.6.0, )"
