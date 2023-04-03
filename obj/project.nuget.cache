@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5BffdiJvB/mBdsAI4pHqtYA4P5gD3YHVPr1amh9ZpHBUDqaLJ/mD+yfQPfteZpcf6+x/GbB6Ti4AdGjzCTgOw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\SQL-Convert\\SQL-Convert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\markjon\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\markjon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\markjon\\.nuget\\packages\\openai\\1.6.0\\openai.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
